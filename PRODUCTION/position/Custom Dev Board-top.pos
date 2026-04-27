@@ -1,0 +1,39 @@
+### Footprint positions - created on 2026-03-27T12:57:35-0500 ###
+### Printed by KiCad version 9.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                   PosX       PosY       Rot  Side
+C1        1uF                          C_0402_1005Metric                     151.6800   -86.4000  180.0000  top
+C2        0.1uF                        C_0402_1005Metric                     151.6800   -88.4000  180.0000  top
+C3        0.1uF                        C_0402_1005Metric                     151.6800   -81.4000  180.0000  top
+C4        0.1uF                        C_0402_1005Metric                     151.6800   -83.4000  180.0000  top
+C5        0.1uF                        C_0402_1005Metric                     151.6800   -82.4000  180.0000  top
+C6        0.1uF                        C_0402_1005Metric                     151.6800   -80.4000  180.0000  top
+C7        0.1uF                        C_0402_1005Metric                     151.6800   -84.4000  180.0000  top
+C8        0.1uF                        C_0402_1005Metric                     151.6800   -85.4000  180.0000  top
+C9        0.1uF                        C_0402_1005Metric                     151.6800   -87.4000  180.0000  top
+C10       1uF                          C_0402_1005Metric                     143.0800   -77.6000  180.0000  top
+C11       0.1uF                        C_0402_1005Metric                     143.1200   -75.6000  180.0000  top
+C12       0.1uF                        C_0402_1005Metric                     143.1200   -76.6000  180.0000  top
+C13       10uF                         C_0603_1608Metric                     150.0000   -75.7750  -90.0000  top
+C14       10uF                         C_0603_1608Metric                     151.8000   -77.2000   90.0000  top
+C15       33pF                         C_0402_1005Metric                     146.8000  -103.4000   90.0000  top
+C16       33pF                         C_0402_1005Metric                     144.0000  -106.8000   90.0000  top
+C17       0.1uF                        C_0402_1005Metric                     151.6800   -79.4000    0.0000  top
+J1        USB_C_Receptacle_USB2.0_14P  USB_C_Receptacle_HRO_TYPE-C-31-M-12   147.2700   -68.8500  180.0000  top
+J2        Conn_01x20_Pin               PinHeader_1x20_P2.54mm_Vertical       138.4100   -67.7700    0.0000  top
+J3        Conn_01x20_Pin               PinHeader_1x20_P2.54mm_Vertical       156.1900   -67.7700    0.0000  top
+J4        Conn_01x03_Pin               PinHeader_1x03_P2.54mm_Vertical       144.6200  -115.8500   90.0000  top
+R1        5.1K                         R_0402_1005Metric                     148.4000   -77.3100  -90.0000  top
+R2        5.1K                         R_0402_1005Metric                     145.0000   -77.3100  -90.0000  top
+R3        27                           R_0402_1005Metric                     146.0000   -77.3100  -90.0000  top
+R4        27                           R_0402_1005Metric                     147.0000   -77.3100  -90.0000  top
+R5        1k                           R_0402_1005Metric                     145.2000  -106.8000  -90.0000  top
+R6        1K                           R_0402_1005Metric                     143.0000  -106.8000   90.0000  top
+R7        10K                          R_0402_1005Metric                     143.6000   -91.2000   90.0000  top
+SW1       SW_Push                      SW_Push_SPST_NO_Alps_SKRK             144.0000  -110.8000   90.0000  top
+U1        RP2040                       QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm   147.3375   -95.9000    0.0000  top
+U2        NCP1117-3.3_SOT223           SOT-223-3_TabPin2                     149.8000  -109.4000   90.0000  top
+U3        W25Q128JVS                   SOIC-8_5.3x5.3mm_P1.27mm              147.2000   -84.6000   90.0000  top
+Y1        12MHz                        Crystal_SMD_3225-4Pin_3.2x2.5mm       143.8000  -103.4000    0.0000  top
+## End
